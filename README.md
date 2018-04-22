@@ -8,3 +8,5 @@ Indian languages have rich inflectional morphology and approximately there are 3
 For Example: ਮੰਡਾ can be used in various contexts(i.e. ਮੰਡੇ (Boys), ਮੰਡੇਆਂ etc. ). 
 
 For this pupose we did stemming on these words and after that we checked the presence of reduced word in our database. If it is present in our database we will label it correspondingly as Noun or Verb or Adjective or Adverb.
+
+One Major difficulty found while implementing it programatically on Python 2.7 is: Unlike English corresponds to ASCII, Punjabi belongs to Unicode Format (UTF-8).
