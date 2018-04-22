@@ -11,4 +11,4 @@ For this pupose we did stemming on these words and after that we checked the pre
 
 One Major difficulty found while implementing it programatically on Python 2.7 is: Unlike English corresponds to ASCII, Punjabi belongs to Unicode Format (UTF-8). So, special attention is given to this.
 
-Named Entity Recognition (NER): It incorporate classification of entities in various classes. For example: Name of Person, Location Names, Organizations etc. In English, we are provided with large datasets to classify these objects but In Punjabi we are way behind due to lack of Labeled data.
+Named Entity Recognition (NER): It incorporate classification of entities in various classes. For example: Name of Person, Location Names, Organizations etc. In English, we are provided with large datasets to classify these objects but In Punjabi we are way behind due to lack of Labeled data. We have created some labeled data and we are still trying to collect more.
