@@ -12,4 +12,3 @@ if (response.status_code == 200):
     news2 = pagehtml.xpath('//p[@class="story-body__introduction"]/text()')
 print("\n".join(news1) + " (BBC News)")
 print("\n".join(news2))
-
