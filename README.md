@@ -9,4 +9,6 @@ For Example: ਮੰਡਾ can be used in various contexts(i.e. ਮੰਡੇ (Boy
 
 For this pupose we did stemming on these words and after that we checked the presence of reduced word in our database. If it is present in our database we will label it correspondingly as Noun or Verb or Adjective or Adverb.
 
-One Major difficulty found while implementing it programatically on Python 2.7 is: Unlike English corresponds to ASCII, Punjabi belongs to Unicode Format (UTF-8).
+One Major difficulty found while implementing it programatically on Python 2.7 is: Unlike English corresponds to ASCII, Punjabi belongs to Unicode Format (UTF-8). So, special attention is given to this.
+
+Named Entity Recognition (NER): It incorporate classification of entities in various classes. For example: Name of Person, Location Names, Organizations etc. In English, we are provided with large datasets to classify these objects but In Punjabi we are way behind due to lack of Labeled data.
