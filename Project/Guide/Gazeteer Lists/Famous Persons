@@ -1,0 +1,571 @@
+Airforce = [
+		"Air Chief Marshal Dilbagh Singh",	# Former Chief of the Indian Air Force
+		"Marshal Arjan Singh",	# Former Chief of Indian Air Force
+		"Air Chief Marshal Om Prakash Mehra"	# Former Chief of Indian Air Force
+		]
+
+Army = [
+	"Lieutenant General Harbaksh Singh", # Western Army Commander and War Hero 1965 Indo-Pak War
+	"General Joginder Jaswant Singh", # Former Indian Army Chief
+	"General Pran Nath Thapar", # Former Indian Army Chief
+	"General Bikram Singh", # Former Indian Army chief
+	"Brigadier Kuldip Singh Chandpuri", # Famous Battle of Longewala, awarded Maha Vir Chakra 
+	"Lt General Jagjit Singh Aurora " # General Officer Commanding-in-Chief
+	]
+
+Navy = [
+	"S.M.Nanda # Admiral",
+	]
+
+Victoria Cross = [
+	"Sher Shah", # 16th Punjab Regiment
+	"Gian Singh", # Sikh Regiment
+	"Ishar Singh", # 28th Punjabis; fist Sikh to receive Victoria Cross
+	"Nand Singh", # 1/11th Sikh Regiment
+	"Parkash Singh", # Sikh Regiment
+	"Karamjeet Singh Judge", # 15th Punjab Regiment
+	"Khudadad Khan", # First Indian recipient of Victoria Cross
+	"Shahamad Khan", # 89th Punjabis
+	"Abdul Hafiz" # 9th Jat Regiment
+	]
+
+Param Veer Chakra (PVC) = [
+	"Lance Naik Karam Singh", # Sikh Regiment
+	"Subedar Joginder Singh", # Sikh Regiment
+	"Nirmal Jit Singh Sekhon", # Indian Air Force
+	"Gurbachan Singh Salaria" # 1 Gorkha Rifles
+	]
+
+Maha Veer Chakra (MVC) = [
+	"Major General Rajinder Singh Sparrow", # Armoured Corps
+	"Wing Commander Jag Mohan Nath", # Officer in Indian Air Force
+	"Lieutenant Colonel Dewan Ranjit Rai", # Senior Indian Army Officer
+	"Nand Singh", #  Indian recipient of Victoria Cross
+	"General Tapishwar Narain Raina", # Former Chief of the Army Staff of Indian Army
+	"Ranjit Singh Dyal", #  Indian Army general and an administrator
+	"Brigadier Kuldip Singh Chandpuri", # Famous Battle of Longewala
+	"Major General Kulwant Singh Pannu", # Officer of Indian Army
+	"Sukhjit Singh" # 
+	]
+
+Military award winner = [
+	"Bhai Mani Singh", #
+	"Baba Deep Singh",#	
+	"Bhai Taru Singh",
+	"Maharaja Ranjit Singh", #
+	"Hari Singh Nalwa", #
+	"Akali Phula Singh", #
+	"Nawab Kapur Singh", #
+	"Hari Singh Dhillon", #
+	"Bhuma Singh Dhillon", #
+	"Jassa Singh Ahluwalia", #
+	"Jassa Singh Ramgarhia", #
+	"Dewan Mokham Chand", #
+	"Diwan Sawan Mal", #
+	"Diwan Mulraj", #
+	"Maharaja Jagatjit Singh", #
+	"Maharaja Bhupinder Singh" #
+	]
+
+Business = [
+	"Sunil Mittal", # Chairman and managing director of the Bharti group
+	"Aroon Purie", # India Today group
+	"Kanwal Rekhi", # Entrepreneurs in Silicon Valley
+	"Gurbaksh Arora", #
+	"Trishneet Arora", #
+	"Sabeer Bhatia", # Co-founder of Hotmail
+	"Naresh Goyal" # Jet Airways 
+	]
+
+Artists = [
+		
+	"Sobha Singh", #
+	"Satish Gujral", #
+	"Manjit Bawa",#
+	"Sarindar Dhaliwal" #
+ ]
+
+Researchers = [
+	"Megh R. Goyal", # Father of irrigation engineering in Puerto Rico
+	"Narinder Singh" #
+	]
+
+Astronauts = [
+	"Air Commodore Ravish Malhotra", #
+	"Kalpana Chawla" # First woman of Indian origin in space
+	]
+
+Anand = [
+	"Chetan Anand", #
+	"Dev Anand", #
+	"Vijay Anand", #
+	"Shekhar Kapur" #
+ ]
+
+Chopra = [
+	"Chetan Anand", #
+	"Dev Anand", #
+	"Vijay Anand", #
+       	"Shekhar Kapur" #
+	]
+
+Deol = [
+	"Dharmendra", #
+	"Sunny Deol" #
+	]
+
+Devgan = [
+	"Veeru Devgan", #
+	"Anil Devgan" #
+	]
+
+Dutt = [
+	"Sunil Dutt", #
+	"Sanjay Dutt" #
+	]
+
+Oberoi = [
+	"Suresh Oberoi", #
+	"Vivek Oberoi" #
+	]
+
+Paintal = [
+	"Paintal", #
+	"Gufi Paintal" #
+	]
+
+Puri = [
+	"Madan Puri", #
+	"Amrish Puri" #
+	]
+
+Sahni = [
+	"Balraj Sahni", #
+	"Bhisham Sahni", #
+	"Parikshit Sahni" #
+	]
+
+Individual artists = [
+	"Amrish Puri", #
+	"Anand Bakshi", #
+	"Akshay Kuma", #	
+	"Bina Rai", #
+	"David Dhawan", #
+	"Deepti Naval", #
+	"Dara Singh", #
+	"Divya Dutta", #
+	"Geeta Bali", #
+	"Gul Panag", #
+	"Honey Singh", #
+	"I. S. Johar", #
+	"Jeetendra (Ravi Kapoor)", #
+	"Jimmy Sharma", #
+	"Kapil Sharma", #
+	"Kamini Kaushal", #
+	"Kulbhushan Kharbanda", #
+	"Kirron Kher", #
+	"Mangal Dhillon", #
+	"Mukesh Khanna", #
+	"Mandira Bedi", #
+	"Monica Bedi", #
+	"Neha Dhupia", #
+	"Navin Nischol", #
+	"Om Prakash", #
+	"Pankaj Kapur", #
+	"Poonam Dhillon", #
+	"Prem Chopra", #
+	"Parmeet Sethi", #
+	"Pooja Batra", #
+	"Pooja Bedi", #
+	"Ruby Bhatia", #
+	"Ranjeet", #
+	"Raj Babbar", #
+	"Rajendra Kumar", #
+	"Rati Agnihotri", #
+	"Raveena Tandon", #
+	"Raageshwari", #
+	"Rajat Kapoor", #	
+	"Rajesh Khanna", #
+	"Rahul Roy", #
+	"Rajit Kapur", #
+	"Roshan", #
+	"Rubina Shergill", #
+	"Simone Singh",#
+	"Suraiya", #
+	"Simi Garewal", #
+	"Saeed Jaffrey", #
+	"Vinod Khanna", #
+	"Vinod Mehra" #
+	]
+
+Director = [
+	"Jaspal Bhatti", #
+	"Harry Baweja", #
+	"Yash Chopra", #
+	"David Dhawan", #
+	"Waris Ahluwalia", #
+	"Art Malik", #
+	"Deepa Mehta" #
+	]
+
+History = [
+	"Charaka", #
+	"Pāṇini", #
+	"King Porus", #
+	"Shahi King Bhima", #
+	"Dulla Bhatti" #
+	]
+
+Folklore = [
+	"Heer Ranjha", #
+	"Mirza Sahiba", #
+	"Puran Bhagat", #
+	"Sohni Mahiwal", #
+	"Sucha Soorma", #
+	"Sayful Muluk", #
+	"Sassi Punnun" #
+	]
+
+Religious and spiritual figure= [
+	 
+	"Guru Nanak", #
+	"Guru Angad", #
+	"Guru Amar Das", #
+	"Guru Ram Das", #
+	"Guru Arjan Dev", #
+	"Guru Hargobind", #
+	"Guru Har Rai", #
+	"Guru Har Krishan", #
+	"Guru Teg Bahadur", #
+	"Guru Gobind Singh", #
+	"Guru Granth Sahib", #
+	"Harbhajan Singh Yogi", #
+	"Giani Sant Singh Maskeen", #
+	"Sri Chand", #
+	"Mirzā Ghulām Ahmad", #
+	"Mirza Basheer-ud-Din Mahmood Ahmad", #
+	"Mirza Nasir Ahmad", #
+	"Mirza Tahir Ahmad" #
+	]
+
+Punjabi, Hindi and Urdu = [
+	"Bhai Gurdas",#
+	"Giani Gurdit Singh", #
+	"Bulleh Shah", #
+	"Waris Shah", #
+	"Hashim Shah", #
+	"Shah Mohammad", #
+	"Shardha Ram Phillauri", #
+	"Nanak Singh", #
+	"Dhani Ram Chatrik", #
+	"Bhai Kahn Singh Nabha", #
+	"Bhai Vir Singh", #
+	"Rajinder Singh Bedi", #
+	"Shiv Kumar Batalvi", #
+	"Damodar Das Arora", #
+	"Faiz Ahmed Faiz", #
+	"Sahir Ludhianvi", #
+	"Shareef Kunjahi", #
+	"Amrita Pritam", #
+	"Gulzar (full name Sampooran Singh Gulzar)", #
+	"Jaswant Neki", #
+	"Pash",#
+	"Rupinderpal Singh Dhillon", #
+	"Harbhajan Singh", #
+	"Munir Niazi", #	
+	"Ajmer Rode", #
+	"Navtej Bharati", #
+	"Jaswant Singh Kanwal", #
+	"Hafeez Jullundhri", #
+	"Mohammed Iqbal", #
+	"Saadat Hasan Manto", #
+	"Mehr Lal Soni Zia Fatehabadi", #
+	"Kulwant Singh Virk" #
+	]
+
+English = [
+	
+	"Khushwant Singh", #
+	"Vikram Chandra", #
+	"Kartar Singh Duggal" 
+	"Amrita Pritam", #
+	"Partap Sharma", #
+	"Tariq Ali", #
+	"Susham Bedi", #	
+	"Ahmed Rashid", #
+	"Nadeem Aslam" #
+	]
+
+Journalist = [
+	"Kuldip Nayar", #
+	"Arun Shourie", #
+	"Aroon Purie", #
+	"Tarun Tejpal", #
+	"Prabhu Chawla", #
+	"Tavleen Singh" #
+	]
+
+Tamil cinema = [
+	"Sonia Agarwa" # Punjabi Hindu
+	]
+
+Model = [
+	"Waris Ahluwalia" # American model" # Endorses the clothing brand GAP
+	]
+
+Classical = [
+	
+	"Babbu Maan", #
+	"Bade Ghulam Ali Khan", #
+	"Kamal Heer", #	
+	"Gurdas Maan", #
+	"Kuldeep Manak", #
+	"Noor Jehan", #
+	"Nusrat Fateh Ali Khan", #
+	"Rahat Fateh Ali Khan", #
+	"Farrukh Fateh Ali Khan" #
+	]
+
+Bollwood = [
+	
+	"Suraiya", #
+	"Shamshad Begum", #
+	"Mohammed Rafi", #
+	"OP Nayyar", #
+	"Mahendra Kapoor", #
+	"Madan Mohan", #
+	"Sukhwinder Singh", #
+	"Kamal Khan" #
+	]
+
+Ghazal = [
+	"Ghulam Ali" #
+	]
+
+Bhangra = [
+	"Jay Sean", #
+	"Jagmeet Bal", #
+	"Asa Singh Mastana", #
+	"Surinder Shinda", #
+	"Surinder Kaur", #
+	"Kuldeep Manak", #
+	"Amar Singh Chamkila", #
+	"Gurdas Mann", #
+	"Malkit Singh", #
+	"Manmohan Waris", #
+	"Kamal Heer", #
+	"Daler Mehndi", #
+	"Surjit Bindrakhia", #
+	"Babbu Mann", #
+	"Balkar Sidhu", #
+	"Lehmber Hussainpuri", #
+	"Hans Raj Hans", #
+	"Sukhwinder Singh", #
+	"Jaspinder Narula", #
+	"Kulwinder Dhillon", #
+	"Bombay Rockers", #
+	"Harshdeep Kaur", #
+	"Sukhbir", #
+	"Labh Janjua", #
+	"Sukhshinder Shinda", #
+	"Bally Sagoo", #
+	"Apache Indian", #
+	"Channi Singh", #
+	"Panjabi MC", #
+	"Jay Sean", #
+	"Hard Kaur", #
+	"Rishi Rich", #
+	"Juggy D", #
+	"Taz", #
+	"Harbhajan Mann", #
+	"Jazzy B", #
+	"Miss Pooja", #
+	"Soni Pabla" #
+	]
+
+Pop = [
+	
+	"Amrinder Gill", #
+	"Baba Sehgal", #
+	"Rabbi Shergill, #
+	"Honey Singh" #
+	]
+
+Rock = [
+	"Amrinder Gill", #
+	"Baba Sehgal", #
+	"Rabbi Shergill, #
+	"Honey Singh" #
+	]
+
+Revolutionarie and Freedom Fighter = [
+	"Lala Lajpat Rai", # Indian Freedom Fighter
+	"Bhai Parmanand", # Indian Nationalist
+	"Harnam Singh Saini", #
+	"Udham Singh", # Indian Revolutionary
+	"Kartar Singh Sarabha", # Indian Independence activist and a Ghadr revolutionary
+	"Bhagat Singh", # Indian Freedom Fighter, also an Indian Socialist Revolutionary
+	"Sardul Singh Kavishar", #
+	"Sukhdev Thapar",#  Indian Revolutionary
+	"Bhai Mati Das", #
+	"Baba Gurmukh Singh", # Indian Freedom Fighter a Ghadr revolutionary and a Sikh activist
+	"Baba Gurdit Singh", #
+	"Baldev Singh", # Indian independence movement leader and also the first Defence Minister of India
+	"Captain Mohan Singh", # Indian military officer and also an Indian Independence Activist
+	"Labh Singh Saini", # Akali politician and notable Indian freedom fighter
+	"Teja Singh Samundri", #
+	"Sardar Ajit Singh", # Indian revolutionary
+	"Dharam Singh Hayatpur", # Indian revolutionary, prominent member of the Sikh political and religious group the Babbar Akali Movement in India
+	"Kartar Singh Jhabbar", #  Indian revolutionary
+	"Ripudaman Singh", # Indian revolutionary
+	"Inayatullah Khan Mashriqi", # founder of Khaksar Movement with the aim of freeing India from the rule of British Empire
+	"Allama Iqbal", #
+	"Baba Kharak Singh", #
+	"Bhagwati Charan Vohra", # Indian revolutionary, associated with Hindustan Socialist Republican Association
+	"Bhai Balmukund", # Indian revolutionary freedom fighter	
+	"Ram Singh", # First Indian to use non-cooperation and boycott of British merchandise and services as a political weapon.
+	"Khan Abdul Ghaffar Khan", #
+	"Kishan Singh Gargaj", #
+	"Madan Lal Dhingra", # Indian revolutionary independence activist
+	"Amir Chand Bombwal", #
+	"Sewa Singh Thikriwala", #
+	"Sikandar Hayat Khan", #
+	"Sohan Singh Bhakna", # Indian revolutionary
+	"Sohan Singh Josh", # Indian communist activist and freedom fighter
+	"Diwan Mulraj Chopra", #
+	"Gulab Kaur", #
+	"Sunder Singh Lyallpuri", # General of Akali Movement
+	"Maya Singh Saini", #
+	"Jathedar Bhai Tehal Singh Dhanju", #
+	"Prithvi Singh Azad", # Indian independence activist	
+	"Sadhu Singh Hamdard", # well-known freedom fighter and the journalist of Punjab
+	"Mangu Ram Mugowalia", # Indian freedom fighter, politician from Punjab and one of the founder members of the Ghadar Party
+	"Darshan Singh Pheruman", # Indian freedom fighter, Sikh activist and politician
+	"Jaswant Singh Rahi", #
+	"Lala Achint Ram", #
+	"Giani Ditt Singh", #
+	"Satyapal Dang", #
+	"Saifuddin Kitchlew", #
+	"Ganda Singh", # prominent member of the Ghadar Party
+	"Teja Singh Swatantar" #
+	]
+
+Politician = [
+	
+	"Amarinder Singh", #
+	"Baldev Singh", #
+	"Bibi Jagir Kaur", #
+	"Buta Singh", #
+	"Darbara Singh", #
+	"Giani Zail Singh", #
+	"Gulzari Lal Nanda", #
+	"Gurcharan Singh Tohra", #
+	"Gurdial Singh Dhillon", #
+	"Harkishan Singh Surjeet", #
+	"Inder Kumar Gujral", #
+	"Krishan Kant", #
+	"Madanlal Khurana", #
+	"Malik Umar Hayat Khan", #	
+	"Manmohan Singh", #
+	"Master Tara Singh", #
+	"Parkash Singh Badal", #
+	"Pratap Singh Kairon", #
+	"Rajinder Kaur Bhattal", #
+	"Sant Fateh Singh", #
+       	"Sardul Singh Caveeshar", #
+	"Simranjit Singh Mann", #
+       	"Surjit Singh Barnala", #
+	"Swaran Singh", #
+	"Laxmi Kanta Chawla", #
+	"Chaudhary Nand Lal" #
+	]
+
+Cricket = [
+	
+	"Yadavendra Singh", #
+	"Lala Amarnath", #
+	"Mohinder Amarnath", #
+	"Bishan Singh Bedi", #
+	"Balwinder Sandhu", #
+	"Bhupinder Singh snr", #
+	"Gursharan Singh", #	
+	"Yograj Singh", #
+	"Amarjit Kaypee", #
+	"Maninder Singh", #
+	"Rajinder Ghai", #
+	"Surinder Khanna", #
+	"Navjot Singh Sidhu", #
+	"Manoj Prabhakar", #
+	"Chetan Sharma", #
+	"Madan Lal", #
+	"Ashok Malhotra", #
+	"Vijay Mehra", #	
+	"Aashish Kapoor", #
+	"Atul Wassan", #
+	"Akash Chopra", #
+	"Nikhil Chopra", #
+	"Dinesh Mongia", #
+	"Harvinder Singh", #
+	"Harbhajan Singh", #
+	"Yuvraj Singh", #
+	"V. R. V. Singh", #
+	"Reetinder Sodhi", #
+	"Gourav Dhiman", #
+	"Piyush Chawla", #
+	"Gautam Gambhir", #
+	"Sunny Sohal", #
+	"Ajay Ratra" #
+	]
+
+Hockey = [
+	
+	"Ajitpal Singh", # 
+	"Balbir Singh Sr.", #
+	"Prithipal Singh", #
+	"Baljeet Singh Saini", #
+	"Gagan Ajit Singh", #
+	"Prabhjot Singh", #
+	"Ramandeep Singh", #
+	"Baljit Singh Dhillon", #
+	"Deepak Thakur", #
+	"Dhyan Chand", #
+	"Surjit Singh Randhawa" #
+	]
+
+Athletics = [
+	
+	"Milkha Singh", #
+	"Ajmer Singh", #
+	"Kamaljeet Sandhu", #
+	"Baljinder Singh" #
+	]
+
+Golf = [
+	
+	"Jeev Milkha Singh", #
+	"Gaganjeet Bhullar" #
+	]
+
+Wrestling = [
+	"The "Great" Gama", #
+	"Dara Singh", #
+	"Jinder Mahal", #
+	"Premchand Dhingra", #
+	"Tiger Jeet Singh", #
+	"Gurjit Singh", #
+	"Sonjay Dutt", #
+	"Maddi" #
+	]
+
+Fighters = [
+	"Akshay Kumar", # Film actor
+	"Veeru Devgan" # Stunt designer
+	]
+
+Shooting= [
+	"Avneet Sindhu" # Commonwealth Games medalist
+	]
+
+Basketball = [
+	"Satnam Singh Bhamara" # First person of Indian descent to be drafted into the NBA
+	]
